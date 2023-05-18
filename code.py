@@ -1,0 +1,5 @@
+a = input("Enter your name: ")
+print("Your name is: ",a)
+n1 = input("Enter the first num: ")
+n2 = input("Enter the second num: ")
+print("The sum is: ",n1+n2)
